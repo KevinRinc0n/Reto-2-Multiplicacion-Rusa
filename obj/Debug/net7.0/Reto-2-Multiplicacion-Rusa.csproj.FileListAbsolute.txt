@@ -1,0 +1,14 @@
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\bin\Debug\net7.0\Reto-2-Multiplicacion-Rusa.exe
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\bin\Debug\net7.0\Reto-2-Multiplicacion-Rusa.deps.json
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\bin\Debug\net7.0\Reto-2-Multiplicacion-Rusa.runtimeconfig.json
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\bin\Debug\net7.0\Reto-2-Multiplicacion-Rusa.dll
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\bin\Debug\net7.0\Reto-2-Multiplicacion-Rusa.pdb
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.AssemblyInfoInputs.cache
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.AssemblyInfo.cs
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.csproj.CoreCompileInputs.cache
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.dll
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\refint\Reto-2-Multiplicacion-Rusa.dll
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.pdb
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\Reto-2-Multiplicacion-Rusa.genruntimeconfig.cache
+C:\Users\APT01-48\Desktop\Reto-2-Multiplicacion-Rusa\obj\Debug\net7.0\ref\Reto-2-Multiplicacion-Rusa.dll
